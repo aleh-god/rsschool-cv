@@ -1,2 +1,1 @@
-# rsschool-cv
-Rolling Scopes School
+https://aleh-god.github.io/rsschool-cv/cv
